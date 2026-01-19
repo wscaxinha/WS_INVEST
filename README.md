@@ -12,7 +12,7 @@ A partir de uma compreensão como os **FIIs** funcionam e sobre as principais pe
  - Patrimônio acumulado ao longo do tempo
  - Estimativa de dividendos mensais 
  - Tomar decisões mais informadas sobre seus investimentos 
----
+
 ## 🎯 Objetivo
 
 Desenvolver um **simulador financeiro em excel**, organizado e que permita:
@@ -20,7 +20,7 @@ Desenvolver um **simulador financeiro em excel**, organizado e que permita:
  - Realizar calculos
  - Inserção de dados pelo usário
  - Simular investimentos
---- 
+
 ## 🌉 Estrutura da Planilha
 
 A planilha é organizada **abas funcionais**:
@@ -37,16 +37,41 @@ A planilha é organizada **abas funcionais**:
 `INVESTIMENTO MENSAL` |
 `CENÁRIOS`
 
----
+
 
 ## ✅ Boas Práticas
 
-Foram utilizadas **células nomedas**, facilitando:
+Foram utilizadas **células nomeadas**, facilitando:
 
  - Leitura das fórmulas
  - Manutenção do projeto
  
----
+## 🧪 Fórmulas Utilizadas
+
+### 💸 Função VF (Valor Futuro)
+
+Utilizada para calcular o patrimônio acumulado ao logo do tempo.
+
+```
+=VF(taxa_mensal;qtde_anos*12;-aporte)
+```
+### 🔎 PROCV
+
+Usada para buscar percentuais de acordo o tipo de investimento.
+
+```
+=PROCV(G3;$B:$E;4;)
+```
+### 🔎 SOMA
+
+Usada para somar os valores de referêntes tipo de  perfil do investidor.
+
+```
+=SOMA(D27:D32)
+```
+
+
+
 
 
 
