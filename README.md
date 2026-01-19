@@ -18,7 +18,7 @@ A partir de uma compreensão como os **FIIs** funcionam e sobre as principais pe
 Desenvolver um **simulador financeiro em excel**, organizado e que permita:
 
  - Realizar calculos
- - Inserção de dados pelo usário
+ - Inserção de dados pelo usuário
  - Simular investimentos
 
 ## 🌉 Estrutura da Planilha
@@ -30,7 +30,7 @@ A planilha é organizada **abas funcionais**:
  - Cálculos
  - Resultados
 
-### 📂 Abas pricipais
+### 📂 Abas principais
 
 `CONFIGURAÇÕES` |
 `TIPOS PERFIS` |
@@ -62,9 +62,9 @@ Usada para buscar percentuais de acordo o tipo de investimento.
 ```
 =PROCV(G3;$B:$E;4;)
 ```
-### 🔎 SOMA
+### 🧮 SOMA
 
-Usada para somar os valores de referêntes tipo de  perfil do investidor.
+Usada para somar os valores de baseados no salário, tipo de  perfil é percentual sugerido.
 
 ```
 =SOMA(D27:D32)
