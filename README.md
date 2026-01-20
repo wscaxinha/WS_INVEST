@@ -40,7 +40,7 @@ A planilha é organizada **abas funcionais**:
 
 
 
-## ✅ Boas Práticas
+## 🚀 Boas Práticas
 
 Durante o desenvolvimento da planilha, foram aplicadas boas práticas que visam organização, clareza e facilidade de manutenção, tais como:
 
@@ -73,9 +73,23 @@ Usada para somar os valores de baseados no salário, tipo de  perfil é percentu
 ```
 =SOMA(D27:D32)
 ```
-<img src = "">
+### 📷 Apresentação Visual
 
-## 📉 Conclusão
+Nesta seção são apresentadas imagens do simulador, com o objetivo de demonstrar a estrutura da planilha e a organização. 
+
+### 📌 Visão geral
+
+<img src = "img\t1.PNG">
+
+#
+
+<img src = "img\t2.PNG">
+
+### 📌 Tabela de Apoio
+
+<img src = "img\t3.PNG">
+
+## ✅ Conclusão
 
 Este simulador mostra como o Excel pode ser usado na prática para organizar dados, automatizar cálculos financeiros e apoiar decisões de investimento. A ferramenta ajuda o usuário a visualizar melhor seus cenários e entender o impacto das suas escolhas financeiras.
 
