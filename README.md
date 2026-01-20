@@ -6,12 +6,12 @@
 
 A partir de uma compreensão como os **FIIs** funcionam e sobre as principais perguntas feitas sobre investimentos, houve uma necessidades de desenvolver uma planilha que auxilie o usuário a:
 
- - Simular diferentes cenários de investimentos
- - Compreender o o tempo do aporte mensal
- - Valor total de investido
- - Patrimônio acumulado ao longo do tempo
- - Estimativa de dividendos mensais 
- - Tomar decisões mais informadas sobre seus investimentos 
+> - Simular diferentes cenários de investimentos
+> - Compreender o o tempo do aporte mensal
+> - Valor total de investido
+> - Patrimônio acumulado ao longo do tempo
+> - Estimativa de dividendos mensais 
+> - Tomar decisões mais informadas sobre seus investimentos 
 
 ## 🎯 Objetivo
 
@@ -69,8 +69,13 @@ Usada para somar os valores de baseados no salário, tipo de  perfil é percentu
 ```
 =SOMA(D27:D32)
 ```
+<img src = "">
 
+## 📉 Conclusão
 
+Este simulador mostra como o Excel pode ser usado na prática para organizar dados, automatizar cálculos financeiros e apoiar decisões de investimento. A ferramenta ajuda o usuário a visualizar melhor seus cenários e entender o impacto das suas escolhas financeiras.
+
+ 
 
 
 
@@ -83,3 +88,6 @@ Usada para somar os valores de baseados no salário, tipo de  perfil é percentu
 
  
 
+
+
+[def]: ws_invest/./img
