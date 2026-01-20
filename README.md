@@ -1,17 +1,21 @@
 # 📈 Simulador de Investimentos em Fundos Imobiliários
 
+> Link:  
+<a href = "https://github.com/wscaxinha/WS_INVEST.git" title = "Clique Aqui" target = "_blank">WS INVESTIMENTOS</a>
+
 ## 📝 Descrição
 
 *Aplicar os conceitos fundamentais de Excel no desenvolvimento de um app de simulação de investimentos em Fundos Imobiliários (FIIs).*
 
 A partir de uma compreensão como os **FIIs** funcionam e sobre as principais perguntas feitas sobre investimentos, houve uma necessidades de desenvolver uma planilha que auxilie o usuário a:
 
-> - Simular diferentes cenários de investimentos
-> - Compreender o o tempo do aporte mensal
-> - Valor total de investido
-> - Patrimônio acumulado ao longo do tempo
-> - Estimativa de dividendos mensais 
-> - Tomar decisões mais informadas sobre seus investimentos 
+- Simular diferentes cenários de investimentos
+
+- Compreender o o tempo do aporte mensal
+- Valor total de investido
+- Patrimônio acumulado ao longo do tempo
+- Estimativa de dividendos mensais 
+- Tomar decisões mais informadas sobre seus investimentos 
 
 ## 🎯 Objetivo
 
@@ -92,6 +96,13 @@ Nesta seção são apresentadas imagens do simulador, com o objetivo de demonstr
 ## ✅ Conclusão
 
 Este simulador mostra como o Excel pode ser usado na prática para organizar dados, automatizar cálculos financeiros e apoiar decisões de investimento. A ferramenta ajuda o usuário a visualizar melhor seus cenários e entender o impacto das suas escolhas financeiras.
+
+> **Ano:** 2026
+>
+> **Ferramentas:** Excel + Visual Code
+>
+> Link:  
+<a href = "https://github.com/wscaxinha/WS_INVEST.git" title = "Clique Aqui" target = "_blank">WS INVESTIMENTOS</a>
 
  
 
