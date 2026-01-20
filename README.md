@@ -42,8 +42,6 @@ A planilha é organizada **abas funcionais**:
 `INVESTIMENTO MENSAL` |
 `CENÁRIOS`
 
-
-
 ## 🚀 Boas Práticas
 
 Durante o desenvolvimento da planilha, foram aplicadas boas práticas que visam organização, clareza e facilidade de manutenção, tais como:
@@ -56,28 +54,28 @@ Durante o desenvolvimento da planilha, foram aplicadas boas práticas que visam 
  
 ## 🧪 Fórmulas Utilizadas
 
-### 💸 Função VF (Valor Futuro)
+#### 💸 VF (Valor Futuro)
 
 Utilizada para calcular o patrimônio acumulado ao logo do tempo.
 
 ```
 =VF(taxa_mensal;qtde_anos*12;-aporte)
 ```
-### 🔎 PROCV
+#### 🔎 PROCV
 
 Usada para buscar percentuais de acordo o tipo de investimento.
 
 ```
 =PROCV(G3;$B:$E;4;)
 ```
-### 🧮 SOMA
+#### 🧮 SOMA
 
 Usada para somar os valores de baseados no salário, tipo de  perfil é percentual sugerido.
 
 ```
 =SOMA(D27:D32)
 ```
-### 📷 Apresentação Visual
+## 📷 Apresentação Visual
 
 Nesta seção são apresentadas imagens do simulador, com o objetivo de demonstrar a estrutura da planilha e a organização. 
 
