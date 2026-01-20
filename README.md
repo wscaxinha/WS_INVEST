@@ -19,6 +19,7 @@ Desenvolver um **simulador financeiro em excel**, organizado e que permita:
 
  - Realizar calculos
  - Inserção de dados pelo usuário
+ - Sugestão de aplicação
  - Simular investimentos
 
 ## 🌉 Estrutura da Planilha
@@ -41,10 +42,13 @@ A planilha é organizada **abas funcionais**:
 
 ## ✅ Boas Práticas
 
-Foram utilizadas **células nomeadas**, facilitando:
+Durante o desenvolvimento da planilha, foram aplicadas boas práticas que visam organização, clareza e facilidade de manutenção, tais como:
 
- - Leitura das fórmulas
- - Manutenção do projeto
+ - **Células nomeadas**, utilizadas como variáveis globais, facilitando a compreensão das fórmulas
+
+ - **Padronização e uniformidade visual**, melhorando a experiência do usuário
+
+ - **tabelas de apoio**, centralizando regras de negócio e evitando duplicidade de informações
  
 ## 🧪 Fórmulas Utilizadas
 
